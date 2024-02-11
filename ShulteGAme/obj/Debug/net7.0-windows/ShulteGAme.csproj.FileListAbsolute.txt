@@ -1,0 +1,17 @@
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ShulteGAme.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ShulteGAme.Form1.resources
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ShulteGAme.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ShulteGAme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ShulteGAme.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ShulteGAme.AssemblyInfo.cs
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ShulteGAme.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\bin\Debug\net7.0-windows\ShulteGAme.exe
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\bin\Debug\net7.0-windows\ShulteGAme.deps.json
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\bin\Debug\net7.0-windows\ShulteGAme.runtimeconfig.json
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\bin\Debug\net7.0-windows\ShulteGAme.dll
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\bin\Debug\net7.0-windows\ShulteGAme.pdb
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ShulteGAme.dll
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\refint\ShulteGAme.dll
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ShulteGAme.pdb
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ShulteGAme.genruntimeconfig.cache
+C:\Users\dev\source\repos\ShulteGAme\ShulteGAme\obj\Debug\net7.0-windows\ref\ShulteGAme.dll
